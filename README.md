@@ -20,7 +20,7 @@ Feel free to check out my projects and contributions here on GitHub or reach out
 
 Skills:
 - C#, .NET Framework, ASP.NET, MVC, ADO.NET
-- Frontend Development: HTML, CSS, JavaScript, Bootstrap
+- Frontend Development: HTML, CSS, JavaScript, Json, Bootstrap
 - Database Management: MS SQL, SQL query optimization, data modeling
 - Problem Solving and Collaborative Development
 
