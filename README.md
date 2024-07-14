@@ -19,7 +19,7 @@ Let's connect and create something amazing together!
 Feel free to check out my projects and contributions here on GitHub or reach out to me via email or LinkedIn. Happy coding!
 
 Skills:
-- C#, .NET Framework, ASP.NET, MVC, ADO.NET
+- C#, .NET Framework, ASP.NET, MVC, ADO.NET, ASP.NET CORE(MODEL-VIEW-CONTROL)
 - Frontend Development: HTML, CSS, JavaScript, Json, Bootstrap
 - Database Management: MS SQL, SQL query optimization, data modeling
 - Problem Solving and Collaborative Development
