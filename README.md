@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarfaraz1709
 - 👀 I’m interested in building innovative and user-friendly web applications using the .NET framework.
-- 🌱 I’m learning advanced .NET Fullstack development techniques and exploring cloud technologies like AWS.
+- 🌱 I’m into advanced DotNET Fullstack development techniques and exploring cloud technologies like AWS.
 - 💞️ I want to collaborate on exciting projects involving C#, ASP.NET, Windows Applications, ADO, MVC, and modern frontend technologies.
 - 📫 How to reach me: imsarfaraz9284@gmail.com | www.linkedin.com/in/sarfaraz-khan-14b170232
 - 😄 Pronouns: He/Him
